@@ -1,0 +1,3 @@
+rootProject.name = "travelogram"
+include ':app'
+include ':libimgur'
